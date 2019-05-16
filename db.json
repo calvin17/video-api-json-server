@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "Warren Buffet",
+      "discription": "Never Loose Money",
+      "userId": "21321312213213213",
+      "id": 1
+    },
+    {
+      "title": "Alber Einstin",
+      "discription": "Knowldge is power",
+      "userId": "21321321321",
+      "id": 2
+    },
+    {
+      "title": "Steve Jobs",
+      "discription": "Stay hungry and stay foolish",
+      "userId": "23545253252",
+      "id": 3
+    },
+    {
+      "title": "Mark",
+      "discription": "Passionate for Programming ",
+      "userId": "109443703430174044110",
+      "id": 4
+    },
+    {
+      "title": "Aristatil",
+      "discription": "Lesson of Life",
+      "userId": "109443703430174044110",
+      "id": 5
+    }
+  ]
+}
