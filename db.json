@@ -1,34 +1,29 @@
 {
-  "streams": [
+  "categories": [
     {
-      "title": "Warren Buffet",
-      "discription": "Never Loose Money",
-      "userId": "21321312213213213",
-      "id": 1
+      "id": 1,
+      "name": "Electronics",
+      "imgUrl": "http://www.google.com"
     },
     {
-      "title": "Alber Einstin",
-      "discription": "Knowldge is power",
-      "userId": "21321321321",
-      "id": 2
+      "id": 2,
+      "name": "Fashion",
+      "imgUrl": "http://www.google.com"
     },
     {
-      "title": "Steve Jobs",
-      "discription": "Stay hungry and stay foolish",
-      "userId": "23545253252",
-      "id": 3
+      "id": 3,
+      "name": "Beauty & Health",
+      "imgUrl": "http://www.google.com"
     },
     {
-      "title": "Mark",
-      "discription": "Passionate for Programming ",
-      "userId": "109443703430174044110",
-      "id": 4
+      "id": 4,
+      "name": "Home & Furniture",
+      "imgUrl": "http://www.google.com"
     },
     {
-      "title": "Aristatil",
-      "discription": "Lesson of Life",
-      "userId": "109443703430174044110",
-      "id": 5
-    }
+      "id": 5,
+      "name": "Movies, Music & Video Games",
+      "imgUrl": "http://www.google.com"
+    },
   ]
 }
