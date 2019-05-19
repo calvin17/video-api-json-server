@@ -1,35 +1,80 @@
 {
+  "users": [
+    {
+      "id": "",
+      "name": "",
+      "email": "",
+      "rewardPoints": "",
+      "isAdmin": ""
+    }
+  ],
+  "wishlist": [
+    {
+      "productId": "",
+      "addedTimeStamp": "",
+      "userId": ""
+    }
+  ],
+  "sentGifts": [],
+  "receivedGifts": [],
   "categories": [
     {
-      "id": 1,
-      "name": "Electronics",
-      "imgUrl": "http://www.google.com"
+      "id": "1",
+      "name": "Apparel",
+      "imageURL": "https://www.powerlinx.com/wp-content/uploads/2016/08/Blog-post-image-5.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
+      "name": "Entertainment",
+      "imageURL": "https://www.eventmanagerblog.com/wp-content/uploads/2018/10/350x215-FEAT-in-post-Entertainment.jpg"
+    },
+    {
+      "id": "3",
       "name": "Fashion",
-      "imgUrl": "http://www.google.com"
+      "imageURL": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hbz-met-gala-george-clooney-amal-clooney-04-1525731436.jpg"
     },
     {
-      "id": 3,
-      "name": "Beauty & Health",
-      "imgUrl": "http://www.google.com"
+      "id": "4",
+      "name": "Food",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg"
     },
     {
-      "id": 4,
-      "name": "Home & Furniture",
-      "imgUrl": "http://www.google.com"
+      "id": "5",
+      "name": "Furniture",
+      "imageURL": "https://d26iwjla857pn6.cloudfront.net/2.0/og-image.jpg"
     },
     {
-      "id": 5,
-      "name": "Movies, Music & Video Games",
-      "imgUrl": "http://www.google.com"
+      "id": "6",
+      "name": "Health",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_fmwWi-AFDfAUI855BpsNIIs7PiEDwEiDawyD6tJMK4q5PTU1Q"
+    },
+    {
+      "id": "7",
+      "name": "Travel",
+      "imageURL": "https://www.wiwigo.com/blog/wp-content/uploads/2016/05/road-trip2.jpg"
     }
   ],
   "products": [
-    { "id": 17, "name": "product 1", "categoryId": 3 },
-    { "id": 25, "name": "product 2", "categoryId": 1 },
-    { "id": 34, "name": "product 3", "categoryId": 2 },
-    { "id": 65, "name": "product 4", "categoryId": 3 }
-  ]
+    {
+      "id": "i5nWZEO",
+      "name": "",
+      "brand": "",
+      "desc": "",
+      "imageUrl": "",
+      "buyoutPoints": "",
+      "expiryDays": "",
+      "categoryId": "2"
+    },
+    {
+      "id": "uCdsV7H",
+      "name": "",
+      "brand": "",
+      "desc": "",
+      "imageUrl": "",
+      "buyoutPoints": "",
+      "expiryDays": "",
+      "categoryId": "2"
+    }
+  ],
+  "reviews": []
 }
