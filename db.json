@@ -31,7 +31,9 @@
     { "id": 19 }
   ],
   "reports": [
-    { "id": 17, "environmentId": 12 }
-    { "id": 25, "environmentId": 12 }
+    { "id": 17, "name": "report 1", "environmentId": 12 },
+    { "id": 25, "name": "report 2", "environmentId": 19 },
+    { "id": 34, "name": "report 3", "environmentId": 19 },
+    { "id": 65, "name": "report 4", "environmentId": 12 }
   ]
 }
