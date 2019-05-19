@@ -25,5 +25,13 @@
       "name": "Movies, Music & Video Games",
       "imgUrl": "http://www.google.com"
     }
+  ],
+  "environments": [
+    { "id": 12 },
+    { "id": 19 }
+  ],
+  "reports": [
+    { "id": 17, "environmentId": 12 }
+    { "id": 25, "environmentId": 12 }
   ]
 }
